@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Farm
+		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Flood plains"],
 		"techRequired": "Farming",
 		"food": 2,
