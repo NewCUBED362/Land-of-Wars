@@ -42,9 +42,9 @@
     "introduction": "A meeting blessed by God, I am sure... I am the greatest Alqadimanite queen to ever grace this earth.",
     "tradeRequest": "Will you accept our trade request?",
 
-    "innerColor": [215, 0, 0],
-    "outerColor": [255, 255, 255],
-    "uniqueName": "The Long Salt Lake",
+    "innerColor": [171, 149, 9],
+    "outerColor": [252, 219, 3],
+    "uniqueName": "Ancient Desert Dunes",
     "cities": ["Alqadima","Al-Kutwah","Masheed","Omelik","Zahumad","Shatbala","Nasir","Qadina","Qohom","Masal"],
   }
 ]
