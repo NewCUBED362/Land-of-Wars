@@ -2,6 +2,7 @@
 	{
 		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Flood plains"],
+		"turnsToBuild": 5,
 		"techRequired": "Farming",
 		"food": 2,
 	},
