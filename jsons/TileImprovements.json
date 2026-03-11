@@ -1,10 +1,17 @@
 [
 	{
 		"name": "Farm",
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Flood plains"],
 		"turnsToBuild": 5,
 		"techRequired": "Farming",
 		"food": 2,
+	},
+	{
+		"name": "Mine",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"turnsToBuild": 5,
+		"techRequired": "Mining",
+		"production": 2,
 	},
 	{
 		"name": "City ruins",
