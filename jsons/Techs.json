@@ -4,6 +4,22 @@
     "era": "First era",
     "buildingCost": 30,
     "wonderCost": 80,
-    "techs": []
+    "techs": [
+      {     
+        "name": "Farming",
+        "cost": 50,
+        "quote": "Open the fruits and you'll find seeds inside... In the soil to make more fruits!",
+      }
+      {     
+        "name": "Mining",
+        "cost": 50,
+        "quote": "Underground you'll find even stronger rocks than the one's we've been using before.",
+      }
+      {     
+        "name": "Animal Husbandry",
+        "cost": 50,
+        "quote": "Instead of chasing our food, we can build fenses and trap them so we don't jave to chase em all the time.",
+      }
+    ]
   }
 ]
