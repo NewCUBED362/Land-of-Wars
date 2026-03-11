@@ -28,7 +28,23 @@
 
     "innerColor": [215, 0, 0],
     "outerColor": [255, 255, 255],
-    "uniqueName": "Ancient Builders",
+    "uniqueName": "Great Builders",
     "cities": ["Shimang City","Shozu","Manchi","Yasazu","Ilisayen","Yikasiza","Guza"],
+  },
+  {
+    "name": "Alqadima",
+    "leaderName": "Suijin",
+
+    "declaringWar": "The stars shine bright, this is an omen from the Gods... We shall win the world!",
+    "attacked": "You cannot erase our people. Our pillars have stood longer than your puny civilization.",
+    "defeated": "A terrible day... Our people return to ashes, just like the desert dunes...",
+    "denounced": "Nothing but gibberish.",
+    "introduction": "A meeting blessed by God, I am sure... I am the greatest Alqadimanite king to ever grace this earth.",
+    "tradeRequest": "Will you accept our trade request?",
+
+    "innerColor": [215, 0, 0],
+    "outerColor": [255, 255, 255],
+    "uniqueName": "The Long Salt Lake",
+    "cities": ["Alqadima"],
   }
 ]
