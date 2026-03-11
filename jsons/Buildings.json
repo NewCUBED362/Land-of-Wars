@@ -1,5 +1,13 @@
 [
   {
+    "name": "Palace",
+		"isNationalWonder": true,
+    "food": 2,
+    "production": 2,
+    "cost": 0,
+		"uniques": ["Indicates the capital city"]
+  },
+  {
     "name": "Campfire",
     "food": 1,
     "culture": 1,
