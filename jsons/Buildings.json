@@ -3,5 +3,6 @@
     "name": "Campfire",
     "food": 1,
     "culture": 1,
+    "cost": 18,
   }
 ]
