@@ -26,8 +26,8 @@
     "introduction": "Good evening, who are you? For I am the leader of Shimang.",
     "tradeRequest": "Gold? Iron? Weapons? Who knows what things we can get from this trade?",
 
-    "innerColor": [215, 0, 0],
-    "outerColor": [255, 255, 255],
+    "innerColor": [145, 0, 0],
+    "outerColor": [215, 0, 0],
     "uniqueName": "Great Builders",
     "cities": ["Shimang City","Shozu","Manchi","Yasazu","Ilisayen","Yikasiza","Guza"],
   },
