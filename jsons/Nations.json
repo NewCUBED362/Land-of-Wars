@@ -35,7 +35,7 @@
   },
   {
     "name": "Raboa",
-    "leaderName": "Mica",
+    "leaderName": "Gaba",
 
     "declaringWar": "Hahahaha! I bet you never expected war between us!",
     "attacked": "War? good! I've always wanted to see your military prowess.",
@@ -44,11 +44,10 @@
     "introduction": "Hello, are you as brave as the mighty Duma?",
     "tradeRequest": "Come on, show us what you've got.",
 
-    "innerColor": [37, 43, 33],
-    "outerColor": [179, 178, 184],
-    "uniqueName": "Military Prowess",
-    "cities": ["Duma","Odun","Rotan","Boda","Daynosa","Oturnad","Dotadosa","Burgun","Danad",
-               "Ruday","Nadad","Sadaytur","Madu"],
+    "innerColor": [179, 178, 184],
+    "outerColor": [37, 43, 33],
+    "uniqueName": "Star Guided Knowledge",
+    "cities": ["Raboa","Ruday","Nadad","Sadaytur","Madu"],
   }
 
 ]
