@@ -37,12 +37,12 @@
     "name": "Raboa",
     "leaderName": "Gaba",
 
-    "declaringWar": "Hahahaha! I bet you never expected war between us!",
-    "attacked": "War? good! I've always wanted to see your military prowess.",
-    "defeated": "So, our civilization has been destroyed. The war between us was fun while it lasted.",
-    "denounced": "Haha! This is a step closer to war...",
-    "introduction": "Hello, are you as brave as the mighty Duma?",
-    "tradeRequest": "Come on, show us what you've got.",
+    "declaringWar": "I will not witness your people fall to time. I better rule them for you.",
+    "attacked": "I foresee your defeat in this war, you are making a grave mistake.",
+    "defeated": "This cannot be! I was told I would witness victory... how could have I failed..?",
+    "denounced": "Nothing but gibberish.",
+    "introduction": "I, am Gaba of the Raboa. I have foreseen our future already.",
+    "tradeRequest": "My friend, will you accept this trade agreement?",
 
     "innerColor": [179, 178, 184],
     "outerColor": [37, 43, 33],
