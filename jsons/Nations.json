@@ -10,8 +10,8 @@
     "introduction": "I am the great king Andoma of Prata. Tell me, what lands do you come from..?",
     "tradeRequest": "Our two Peoples could really use some agreement...",
 
-    "innerColor": [0, 0, 110],
-    "outerColor": [0, 0, 180],
+    "innerColor": [213,249,255],
+    "outerColor": [27,53,63],
     "uniqueName": "Grand Monuments",
     "cities": ["Prata","Lomot","Sudmo","Traten","Lida","Mosada","Potemen","Sundem","Pord","Tenda","Madon","Helna",
                "Mota","Tosud","Dapra","Sulidosa","Teman","Dosada"],
