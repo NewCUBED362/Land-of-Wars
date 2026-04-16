@@ -44,8 +44,8 @@
     "introduction": "I, am Gaba of the Raboa. I have foreseen our future already.",
     "tradeRequest": "My friend, will you accept this trade agreement?",
 
-    "innerColor": [179, 178, 184],
-    "outerColor": [37, 43, 33],
+    "innerColor": [255, 0, 0],
+    "outerColor": [27, 33, 96],
     "uniqueName": "Star Guided Knowledge",
     "cities": ["Nok","Goroba","Bak Valley","Sagosa","Noaso","Dado Forest","Gab Valley","Bago","Bara","Radabo","Kog",
                "Saka","Koko","Danan","Kabaso","Roba"],
