@@ -32,6 +32,23 @@
     "uniqueName": "Military Prowess",
     "cities": ["Duma","Odun","Rotan","Boda","Daynosa","Oturnad","Dotadosa","Burgun","Danad",
                "Ruday","Nadad","Sadaytur","Madu"],
+  },
+  {
+    "name": "Raboa",
+    "leaderName": "Mica",
+
+    "declaringWar": "Hahahaha! I bet you never expected war between us!",
+    "attacked": "War? good! I've always wanted to see your military prowess.",
+    "defeated": "So, our civilization has been destroyed. The war between us was fun while it lasted.",
+    "denounced": "Haha! This is a step closer to war...",
+    "introduction": "Hello, are you as brave as the mighty Duma?",
+    "tradeRequest": "Come on, show us what you've got.",
+
+    "innerColor": [37, 43, 33],
+    "outerColor": [179, 178, 184],
+    "uniqueName": "Military Prowess",
+    "cities": ["Duma","Odun","Rotan","Boda","Daynosa","Oturnad","Dotadosa","Burgun","Danad",
+               "Ruday","Nadad","Sadaytur","Madu"],
   }
 
 ]
