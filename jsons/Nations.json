@@ -1,7 +1,7 @@
 [
   {
     "name": "Prata",
-    "leaderName": "Andeolus Laurito",
+    "leaderName": "Andoma",
 
     "declaringWar": "You are weak! The glorious Prata Kingdom marches to you demise.",
     "attacked": "From the great plains to the east, to our home cities. Our people rise to oppose your conquest!",
@@ -13,38 +13,8 @@
     "innerColor": [0, 0, 110],
     "outerColor": [0, 0, 180],
     "uniqueName": "Grand Monuments",
-    "cities": ["Prata","Lotirus","Solimus","Helena","Mosuvius","Perator","Poleosus"],
+    "cities": ["Prata","Lomot","Sudmo","Traten","Lida","Mosada","Potemen","Sundem","Pord","Tenda","Madon","Helna",
+               "Mota","Tosud","Dapra","Sulidosa","Teman","Dosada"],
   },
-  {
-    "name": "Shimang",
-    "leaderName": "Suijin",
 
-    "declaringWar": "Charge! Victory is only one glorious battle away!",
-    "attacked": "You cannot declare war on me! I declared war first..!",
-    "defeated": "Good... End me and give me honour...",
-    "denounced": "Nothing but gibberish.",
-    "introduction": "Good evening, who are you? For I am the leader of Shimang.",
-    "tradeRequest": "Gold? Iron? Weapons? Who knows what things we can get from this trade?",
-
-    "innerColor": [145, 0, 0],
-    "outerColor": [215, 0, 0],
-    "uniqueName": "Great Builders",
-    "cities": ["Shimang City","Shozu","Manchi","Yasazu","Ilisayen","Yikasiza","Guza"],
-  },
-  {
-    "name": "Alqadima",
-    "leaderName": "Yasmin",
-
-    "declaringWar": "The stars shine bright, this is an omen from the Gods... We shall win the world!",
-    "attacked": "You cannot erase our people. Our pillars have stood longer than your puny civilization.",
-    "defeated": "A terrible day... Our people return to ashes, just like the desert dunes...",
-    "denounced": "I am in shock! May the Gods curse your people.",
-    "introduction": "A meeting blessed by God, I am sure... I am the greatest Alqadimanite queen to ever grace this earth.",
-    "tradeRequest": "Will you accept our trade request?",
-
-    "innerColor": [171, 149, 9],
-    "outerColor": [252, 219, 3],
-    "uniqueName": "Ancient Desert Dunes",
-    "cities": ["Alqadima","Al-Kutwah","Masheed","Omelik","Zahumad","Shatbala","Nasir","Qadina","Qohom","Masal"],
-  }
 ]
