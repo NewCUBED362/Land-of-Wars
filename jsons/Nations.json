@@ -30,7 +30,7 @@
     "innerColor": [37, 43, 33],
     "outerColor": [179, 178, 184],
     "uniqueName": "Military Prowess",
-    "cities": ["Duma","Odun","Rotan","Boda","Daynosa","Oturnad","Dotadosa","Burgun","Danad",
+    "cities": ["Duma","Odun","Rotan","Old Boda","New Boda","Daynosa","Oturnad","Dotadosa","Burgun","Danad",
                "Ruday","Nadad","Sadaytur","Madu"],
   },
   {
@@ -47,7 +47,8 @@
     "innerColor": [179, 178, 184],
     "outerColor": [37, 43, 33],
     "uniqueName": "Star Guided Knowledge",
-    "cities": ["Nok","Goroba","Bak","Sagosa","Noaso","Dado","Gab","Bago"],
+    "cities": ["Nok","Goroba","Bak Valley","Sagosa","Noaso","Dado Forest","Gab Valley","Bago","Bara","Radabo","Kog",
+               "Saka","Koko","Danan","Kabaso","Roba"],
   }
 
 ]
