@@ -10,8 +10,8 @@
     "introduction": "I am the great king Andoma of Prata. Tell me, what lands do you come from..?",
     "tradeRequest": "Our two Peoples could really use some agreement...",
 
-    "innerColor": [213,249,255],
-    "outerColor": [27,53,63],
+    "innerColor": [213, 249, 255],
+    "outerColor": [27, 53, 63],
     "uniqueName": "Grand Monuments",
     "cities": ["Prata","Lomot","Sudmo","Traten","Lida","Mosada","Potemen","Sundem","Pord","Tenda","Madon","Helna",
                "Mota","Tosud","Dapra","Sulidosa","Teman","Dosada"],
@@ -27,8 +27,8 @@
     "introduction": "Hello, are you as brave as the mighty Duma?",
     "tradeRequest": "Come on, show us what you've got.",
 
-    "innerColor": [213,249,255],
-    "outerColor": [27,53,63],
+    "innerColor": [37, 43, 33],
+    "outerColor": [179, 178, 184],
     "uniqueName": "Military Prowess",
     "cities": ["Duma","Odun","Rotan","Boda","Daynosa","Oturnad","Dotadosa","Burgun","Danad",
                "Ruday","Nadad","Sadaytur","Madu"],
