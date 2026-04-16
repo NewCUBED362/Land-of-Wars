@@ -15,6 +15,23 @@
     "uniqueName": "Grand Monuments",
     "cities": ["Prata","Lomot","Sudmo","Traten","Lida","Mosada","Potemen","Sundem","Pord","Tenda","Madon","Helna",
                "Mota","Tosud","Dapra","Sulidosa","Teman","Dosada"],
+  }
+  {
+    "name": "Duma",
+    "leaderName": "Mica",
+
+    "declaringWar": "Hahahaha! I bet you never expected war between us!",
+    "attacked": "War? good! I've always wanted to see your military prowess.",
+    "defeated": "So, our civilization has been destroyed. The war between us was fun while it lasted.",
+    "denounced": "Haha! This is a step closer to war...",
+    "introduction": "Hello, are you as brave as the mighty Duma?",
+    "tradeRequest": "Come on, show us what you've got.",
+
+    "innerColor": [213,249,255],
+    "outerColor": [27,53,63],
+    "uniqueName": "Military Prowess",
+    "cities": ["Duma","Odun","Rotan","Boda","Daynosa","Oturnad","Dotadosa","Burgun","Danad",
+               "Ruday","Nadad","Sadaytur","Madu"],
   },
 
 ]
