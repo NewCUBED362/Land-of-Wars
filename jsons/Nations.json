@@ -15,7 +15,7 @@
     "uniqueName": "Grand Monuments",
     "cities": ["Prata","Lomot","Sudmo","Traten","Lida","Mosada","Potemen","Sundem","Pord","Tenda","Madon","Helna",
                "Mota","Tosud","Dapra","Sulidosa","Teman","Dosada"],
-  }
+  },
   {
     "name": "Duma",
     "leaderName": "Mica",
@@ -32,6 +32,6 @@
     "uniqueName": "Military Prowess",
     "cities": ["Duma","Odun","Rotan","Boda","Daynosa","Oturnad","Dotadosa","Burgun","Danad",
                "Ruday","Nadad","Sadaytur","Madu"],
-  },
+  }
 
 ]
