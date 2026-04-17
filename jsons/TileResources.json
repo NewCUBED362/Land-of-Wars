@@ -1,7 +1,7 @@
 [
 // Bonus
 {
-  "name": "Brahmin Herd",
+  "name": "Brahman Herd",
   "resourceType": "Bonus",
   "food": 1,
   "improvementStats": {"production": 1},
