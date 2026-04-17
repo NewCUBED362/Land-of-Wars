@@ -4,4 +4,8 @@
   "name": "Brahmin Herd",
   "resourceType": "Bonus",
   "food": 1,
-  "improvementStats": 
+  "improvementStats": {"production": 1},
+  "improvement": "Pasture",
+  "unique": [""],
+}
+]
