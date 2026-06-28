@@ -14,6 +14,14 @@
 		"production": 2,
 	},
 	{
+		"name": "Pasture",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Flood plains"],
+		"turnsToBuild": 6,
+		"techRequired": "Animal Husbandry",
+		"food": 1,
+	},
+	// Misc
+	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Unbuildable"],
