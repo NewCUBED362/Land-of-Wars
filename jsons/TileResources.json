@@ -3,6 +3,7 @@
 {
   "name": "Cattle",
   "resourceType": "Bonus",
+  "terrainsCanBeFoundOn": ["Grassland","Plains"],
   "food": 1,
   "improvementStats": {"production": 1},
   "improvement": "Pasture",
@@ -11,6 +12,7 @@
 {
   "name": "Sheep",
   "resourceType": "Bonus",
+  "terrainsCanBeFoundOn": ["Grassland","Plains"],
   "food": 1,
   "improvementStats": {"production": 1},
   "improvement": "Pasture",
