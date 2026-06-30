@@ -6,13 +6,16 @@
   {
     "name": "Blunt",
     "movementType": "Land",
+    "uniques": ["[+50]% Strength <vs [Slash] units>"],
   },
   {
     "name": "Pierce",
     "movementType": "Land",
+    "uniques": ["[+50]% Strength <vs [Blunt] units>"],
   },
   {
     "name": "Slash",
     "movementType": "Land",
+    "uniques": ["[+50]% Strength <vs [Pierce] units>"],
   }
 ]
