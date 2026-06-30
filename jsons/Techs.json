@@ -82,6 +82,13 @@
         "prerequisites": ["Writing"],
       },
       {     
+        "name": "Currency",
+        "row": 4,
+        "cost": 60,
+        "quote": "Currency is used to help with buying and selling produce, giving resources a more clearer value.",
+        "prerequisites": ["Farming","Writing"],
+      },
+      {     
         "name": "Construction",
         "row": 6,
         "cost": 60,
