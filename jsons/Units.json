@@ -26,8 +26,18 @@
     "unitType": "Pierce",
     "cost": 65,
 	"requiredTech": "Bronze Working",
+	"requiredResource": "Metals",
     "movement": 1,
     "strength": 22,
+  },
+  {
+    "name": "Swordsman",
+    "unitType": "Slash",
+    "cost": 80,
+	"requiredTech": "Iron Working",
+	"requiredResource": "Metals",
+    "movement": 1,
+    "strength": 28,
   },
   {
     "name": "Archer",
