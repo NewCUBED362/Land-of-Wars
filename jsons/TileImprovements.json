@@ -19,6 +19,7 @@
 		"turnsToBuild": 6,
 		"techRequired": "Animal Husbandry",
 		"food": 1,
+		"uniques": ["Can only be built to improve a resource"],
 	},
 	{
 		"name": "Plantation",
@@ -26,6 +27,7 @@
 		"turnsToBuild": 5,
 		"techRequired": "Gathering",
 		"food": 1,
+		"uniques": ["Does not need removal of [Forest]","Can only be built to improve a resource"],
 	},
 	// Misc
 	{
