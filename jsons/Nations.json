@@ -88,7 +88,7 @@
     "attacked": "Very well. We will prepare to fend you off.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
 
-    "innerColor": [0,130,0],
+    "innerColor": [127,177,236],
     "outerColor": [0,0,0],
     "cities": ["Morphendon"],
   },
@@ -100,7 +100,7 @@
     "attacked": "Very well. We will prepare to fend you off.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
 
-    "innerColor": [0,130,0],
+    "innerColor": [113,227,114],
     "outerColor": [0,0,0],
     "cities": ["Shubraria"],
   },
@@ -112,7 +112,7 @@
     "attacked": "Very well. We will prepare to fend you off.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
 
-    "innerColor": [0,130,0],
+    "innerColor": [18,188,221],
     "outerColor": [0,0,0],
     "cities": ["Annatah"],
   },
@@ -124,7 +124,7 @@
     "attacked": "Very well. We will prepare to fend you off.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
 
-    "innerColor": [0,130,0],
+    "innerColor": [121,226,0],
     "outerColor": [0,0,0],
     "cities": ["Nivertara"],
   },
@@ -136,7 +136,7 @@
     "attacked": "Very well. We will prepare to fend you off.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
 
-    "innerColor": [0,130,0],
+    "innerColor": [186,18,202],
     "outerColor": [0,0,0],
     "cities": ["Goondigoolga"],
   }
