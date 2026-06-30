@@ -112,11 +112,20 @@
     "buildingCost": 60,
     "wonderCost": 200,
     "techs": [
+        {     
+        "name": "Rhetoric",
+        "row": 2,
+        "cost": 120,
+        "quote": "As cities and societies grow great in size, more impressive infrastructure comes to life.",
+        "prerequisites": ["Philosophy","Currency"],
+      },
       {     
         "name": "Horseback Riding",
-        "row": 2,
+        "row": 7,
         "cost": 120,
         "quote": "We have put wheels on a horse, now we are getting somewhere.",
         "prerequisites": ["Iron Working","Construction"],
-      },
+      }
+    ]
+  }
 ]
