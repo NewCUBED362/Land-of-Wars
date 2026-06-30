@@ -81,7 +81,19 @@
   },
 	// City state
   {
-    "name": "Ashurad",
+    "name": "Morphendon",
+    "cityStateType": "Neutral",
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "Very well. We will prepare to fend you off.",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+
+    "innerColor": [0,130,0],
+    "outerColor": [0,0,0],
+    "cities": ["Morphendon"],
+  },
+  {
+    "name": "Shubraria",
     "cityStateType": "Neutral",
 
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
@@ -91,5 +103,41 @@
     "innerColor": [0,130,0],
     "outerColor": [0,0,0],
     "cities": ["Shubraria"],
+  },
+  {
+    "name": "Annatah",
+    "cityStateType": "Neutral",
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "Very well. We will prepare to fend you off.",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+
+    "innerColor": [0,130,0],
+    "outerColor": [0,0,0],
+    "cities": ["Annatah"],
+  },
+  {
+    "name": "Nivertara",
+    "cityStateType": "Neutral",
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "Very well. We will prepare to fend you off.",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+
+    "innerColor": [0,130,0],
+    "outerColor": [0,0,0],
+    "cities": ["Nivertara"],
+  },
+  {
+    "name": "Goondigoolga",
+    "cityStateType": "Neutral",
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "Very well. We will prepare to fend you off.",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+
+    "innerColor": [0,130,0],
+    "outerColor": [0,0,0],
+    "cities": ["Goondigoolga"],
   }
 ]
