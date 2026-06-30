@@ -21,7 +21,7 @@
   {
     "name": "Library",
     "science": 2,
-	"requiredTech": "Writing",
+	"requiredTech": "Rhetoric",
   },
   {
     "name": "Logging Camp",
@@ -57,5 +57,15 @@
     "name": "Forge",
     "production": 3,
 	"requiredTech": "Iron Working",
-  }
+  },
+  {
+    "name": "School",
+    "science": 2,
+	"requiredTech": "Philosophy",
+  },
+  {
+    "name": "Theatre",
+    "happiness": 3,
+	"requiredTech": "Rhetoric",
+  },
 ]
