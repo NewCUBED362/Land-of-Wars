@@ -25,9 +25,16 @@ NationIcons/Shunxi
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/Vesparia
+NationIcons/Ulfrik
   rotate: false
   xy: 412, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Vesparia
+  rotate: false
+  xy: 548, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
