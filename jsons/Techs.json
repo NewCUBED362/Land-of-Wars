@@ -37,6 +37,7 @@
         "cost": 10,
         "quote": "By engraving our words to clay tablets. Our words, stories and life lessons can be forever immortalised for generations to come.",
         "prerequisites": ["Gathering"],
+        "uniques": ["Enables Open Borders agreements"],
       },
       {     
         "name": "Farming",
