@@ -11,6 +11,7 @@
     "name": "Campfire",
     "food": 1,
     "culture": 4,
+	"cost": 15,
   },
   {
     "name": "Granary",
@@ -42,4 +43,9 @@
     "happiness": 2,
 	"requiredTech": "Animal Husbandry",
   },
+  {
+    "name": "Ampitheatre",
+    "culture": 2,
+	"requiredTech": "Philosophy",
+  }
 ]
