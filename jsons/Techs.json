@@ -6,7 +6,7 @@
     "wonderCost": 80,
     "techs": [
       {     
-        "name": "Farming",
+        "name": "Gathering",
         "row": 1,
         "cost": 10,
         "quote": "Open the fruits and you'll find seeds inside... In the soil to make more fruits!",
@@ -22,6 +22,20 @@
         "row": 7,
         "cost": 10,
         "quote": "Instead of chasing our food, we can build fenses and trap them so we don't have to chase em all the time.",
+      },
+    ]
+  },
+  {
+    "columnNumber": 1,
+    "era": "First era",
+    "buildingCost": 30,
+    "wonderCost": 80,
+    "techs": [
+      {     
+        "name": "Farming",
+        "row": 1,
+        "cost": 30,
+        "quote": "Open the fruits and you'll find seeds inside... In the soil to make more fruits!",
       }
     ]
   }
