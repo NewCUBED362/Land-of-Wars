@@ -33,7 +33,7 @@
   "terrainsCanBeFoundOn": ["Grassland","Plains"],
   "food": 1,
   "improvementStats": {"food": 1},
-  "improvement": "Pasture",
+  "improvement": "Plantation",
   "unique": ["Generated on every [15] tiles <in [{Featureless} {Grassland}] tiles>","Generated on every [15] tiles <in [{Featureless} {Plains}] tiles>"],
 }
 ]
