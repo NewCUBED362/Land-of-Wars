@@ -11,12 +11,14 @@
     "name": "Campfire",
     "food": 1,
     "culture": 1,
-    "cost": 18,
   },
   {
     "name": "Granary",
     "food": 2,
-    "cost": 30,
 	"requiredTech": "Farming",
-  }
+  },
+  {
+    "name": "Library",
+    "science": 1,
+  },
 ]
