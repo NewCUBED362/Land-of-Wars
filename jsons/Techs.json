@@ -7,19 +7,19 @@
     "techs": [
       {     
         "name": "Gathering",
-        "row": 1,
+        "row": 4,
         "cost": 10,
         "quote": "Open the fruits and you'll find seeds inside... In the soil to make more fruits!",
       },
       {     
         "name": "Mining",
-        "row": 4,
+        "row": 6,
         "cost": 10,
         "quote": "Underground you'll find even stronger rocks than the one's we've been using before.",
       },
       {     
         "name": "Animal Husbandry",
-        "row": 7,
+        "row": 8,
         "cost": 10,
         "quote": "Instead of chasing our food, we can build fenses and trap them so we don't have to chase em all the time.",
       },
@@ -32,8 +32,15 @@
     "wonderCost": 80,
     "techs": [
       {     
-        "name": "Farming",
+        "name": "Writing",
         "row": 2,
+        "cost": 10,
+        "quote": "By engraving our words to clay tablets. Our words, stories and life lessons can be forever immortalised for generations to come.",
+        "prerequisites": ["Gathering"],
+      },
+      {     
+        "name": "Farming",
+        "row": 3,
         "cost": 30,
         "quote": "Open the fruits and you'll find seeds inside... In the soil to make more fruits!",
         "prerequisites": ["Gathering"],
