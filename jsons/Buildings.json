@@ -32,4 +32,14 @@
     "culture": 3,
 	"uniques": ["Can only be built <in cities with [8] [Population]>"],
   },
+  {
+    "name": "Colosseum",
+    "happiness": 3,
+	"requiredTech": "Construction",
+  },
+  {
+    "name": "Circus",
+    "happiness": 2,
+	"requiredTech": "Animal Husbandry",
+  },
 ]
