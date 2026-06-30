@@ -17,5 +17,9 @@
     "name": "Slash",
     "movementType": "Land",
     "uniques": ["[+50]% Strength <vs [Pierce] units>"],
+  },
+  {
+    "name": "Archery",
+    "movementType": "Land",
   }
 ]
