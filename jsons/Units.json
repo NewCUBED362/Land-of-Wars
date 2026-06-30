@@ -20,7 +20,14 @@
     "cost": 40,
     "movement": 1,
     "strength": 15,
+  },
+  {
+    "name": "Spearman",
+    "unitType": "Pierce",
+    "cost": 65,
+	"requiredTech": "Bronze Working",
+    "movement": 1,
+    "strength": 22,
   }
- 
 ]
     
