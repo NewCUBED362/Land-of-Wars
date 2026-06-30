@@ -29,7 +29,7 @@
     "columnNumber": 1,
     "era": "First era",
     "buildingCost": 30,
-    "wonderCost": 80,
+    "wonderCost": 200,
     "techs": [
       {     
         "name": "Writing",
@@ -73,7 +73,7 @@
     "columnNumber": 2,
     "era": "Second era",
     "buildingCost": 30,
-    "wonderCost": 80,
+    "wonderCost": 200,
     "techs": [
       {     
         "name": "Philosophy",
@@ -105,5 +105,18 @@
         "prerequisites": ["Bronze Working","Archery"],
       },
     ]
-  }
+  },
+  {
+    "columnNumber": 3,
+    "era": "Second era",
+    "buildingCost": 60,
+    "wonderCost": 200,
+    "techs": [
+      {     
+        "name": "Horseback Riding",
+        "row": 2,
+        "cost": 120,
+        "quote": "We have put wheels on a horse, now we are getting somewhere.",
+        "prerequisites": ["Iron Working","Construction"],
+      },
 ]
