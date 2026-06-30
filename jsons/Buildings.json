@@ -30,5 +30,6 @@
   {
     "name": "Monument",
     "culture": 3,
+	"uniques": ["Can only be built <in cities with [8] [Population]>"],
   },
 ]
