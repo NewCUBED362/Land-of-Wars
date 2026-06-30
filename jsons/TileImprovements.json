@@ -20,6 +20,13 @@
 		"techRequired": "Animal Husbandry",
 		"food": 1,
 	},
+	{
+		"name": "Plantation",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Flood plains"],
+		"turnsToBuild": 5,
+		"techRequired": "Gathering",
+		"food": 1,
+	},
 	// Misc
 	{
 		"name": "City ruins",
