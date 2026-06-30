@@ -4,7 +4,7 @@
     "leaderName": "Carlotta",
 
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
-    "attacked": "You will pay for this.",
+    "attacked": "Very well. We will prepare to fend you off.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
     "introduction": "Hello, stranger. I am Carlotta, leader of Vesparia",
 
@@ -24,7 +24,7 @@
     "leaderName": "Yijun",
 
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
-    "attacked": "You will pay for this.",
+    "attacked": "Very well. We will prepare to fend you off.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
     "introduction": "Hello, stranger. I am Yijun, leader of Shunxi",
 
@@ -43,7 +43,7 @@
     "name": "Epirovos",
     "leaderName": "Iliana",
 
-    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "declaringWar": "You are an evil leader. You must be destroyed!",
     "attacked": "You will pay for this.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
     "introduction": "Hello, stranger. I am Iliana, leader of Epirovos",
@@ -63,7 +63,7 @@
     "name": "Khemeru",
     "leaderName": "Djehutimesu",
 
-    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "declaringWar": "You are an evil leader. You must be destroyed!",
     "attacked": "You will pay for this.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
     "introduction": "Hello, stranger. I am Djehutimesu, leader of Khemeru.",
