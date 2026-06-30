@@ -28,6 +28,16 @@
 	"requiredTech": "Bronze Working",
     "movement": 1,
     "strength": 22,
+  },
+  {
+    "name": "Archer",
+    "unitType": "Archery",
+    "cost": 55,
+	"requiredTech": "Archery",
+    "movement": 1,
+    "strength": 12,
+	"rangedStrength": 22,
+	"range": 2,
   }
 ]
     
