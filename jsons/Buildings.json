@@ -19,6 +19,12 @@
   },
   {
     "name": "Library",
-    "science": 1,
+    "science": 2,
+	"requiredTech": "Writing",
+  },
+  {
+    "name": "Logging Camp",
+    "production": 2,
+	"requiredTech": "Carpentry",
   },
 ]
