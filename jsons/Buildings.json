@@ -44,8 +44,18 @@
 	"requiredTech": "Animal Husbandry",
   },
   {
-    "name": "Ampitheatre",
+    "name": "Ampitheater",
     "culture": 2,
 	"requiredTech": "Philosophy",
+  },
+  {
+    "name": "Market",
+    "gold": 3,
+	"requiredTech": "Currency",
+  },
+  {
+    "name": "Forge",
+    "production": 3,
+	"requiredTech": "Iron Working",
   }
 ]
