@@ -94,7 +94,14 @@
         "cost": 60,
         "quote": "Now we can combine both tougher and stronger building material and human innovation. We can build great towering structures.",
         "prerequisites": ["Carpentry","Bronze Working"],
-      }
+      },
+      {     
+        "name": "Iron Working",
+        "row": 8,
+        "cost": 60,
+        "quote": "By combining weaker metals such as copper and tin, we can create bronze, a much stronger metal which can be used for spear tips.",
+        "prerequisites": ["Bronze Working","Archery"],
+      },
     ]
   }
 ]
