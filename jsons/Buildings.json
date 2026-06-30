@@ -27,4 +27,8 @@
     "production": 2,
 	"requiredTech": "Carpentry",
   },
+  {
+    "name": "Monument",
+    "culture": 3,
+  },
 ]
