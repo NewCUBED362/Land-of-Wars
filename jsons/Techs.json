@@ -68,6 +68,13 @@
     "wonderCost": 80,
     "techs": [
       {     
+        "name": "Philosophy",
+        "row": 2,
+        "cost": 10,
+        "quote": "The human mind is vast and complicated. By learning more about ourselves, we can understand our strengths and flaws as a society.",
+        "prerequisites": ["Writing"],
+      },
+      {     
         "name": "Construction",
         "row": 6,
         "cost": 60,
