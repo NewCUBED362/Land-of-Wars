@@ -60,10 +60,11 @@
         "prerequisites": ["Mining"],
       },
       {     
-        "name": "Hunting",
+        "name": "Archery",
         "row": 9,
         "cost": 30,
         "quote": "Instead of chasing our food, we can build fenses and trap them so we don't have to chase em all the time.",
+        "prerequisites": ["Animal Husbandry"],
       },
     ]
   },
