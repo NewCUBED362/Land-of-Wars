@@ -17,5 +17,23 @@
   "improvementStats": {"production": 1},
   "improvement": "Pasture",
   "unique": ["Generated on every [13] tiles <in [{Featureless} {Grassland}] tiles>","Generated on every [13] tiles <in [{Featureless} {Plains}] tiles>"],
+},
+{
+  "name": "Apples",
+  "resourceType": "Bonus",
+  "terrainsCanBeFoundOn": ["Grassland","Plains"],
+  "food": 1,
+  "improvementStats": {"food": 1},
+  "improvement": "Plantation",
+  "unique": ["Generated on every [13] tiles <in [{Forest} {Grassland}] tiles>","Generated on every [13] tiles <in [{Forest} {Plains}] tiles>"],
+},
+{
+  "name": "Grapes",
+  "resourceType": "Bonus",
+  "terrainsCanBeFoundOn": ["Grassland","Plains"],
+  "food": 1,
+  "improvementStats": {"food": 1},
+  "improvement": "Pasture",
+  "unique": ["Generated on every [15] tiles <in [{Featureless} {Grassland}] tiles>","Generated on every [15] tiles <in [{Featureless} {Plains}] tiles>"],
 }
 ]
