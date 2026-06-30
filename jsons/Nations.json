@@ -81,7 +81,7 @@
   },
 	// City state
   {
-    "name": "Dunnland",
+    "name": "Ashurad",
     "cityStateType": "Neutral",
 
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
@@ -90,6 +90,6 @@
 
     "innerColor": [0,130,0],
     "outerColor": [0,0,0],
-    "cities": ["Dunn"],
+    "cities": ["Shubraria"],
   }
 ]
