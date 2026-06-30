@@ -1,0 +1,8 @@
+{
+    "name": "Global Uniques",
+    "uniques": ["[+10]% [Culture] <in cities with between [2] and [4] [Population]>",
+                "[+20]% [Culture] <in cities with between [5] and [6] [Population]>",
+                "[+35]% [Culture] <in cities with between [7] and [8] [Population]>",
+                "[+50]% [Culture] <in cities with between [9] and [10] [Population]>",
+                "[+65]% [Culture] <in cities with between [11] and [12] [Population]>"],
+}
