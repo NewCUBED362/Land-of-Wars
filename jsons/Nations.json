@@ -92,8 +92,8 @@
     "hateHello": "WHAT!?",
     "tradeRequest": "May we have a trade?",
 
-    "innerColor": [83, 0, 208],
-    "outerColor": [255, 252, 3],
+    "innerColor": [255,255,102],
+    "outerColor": [51,25,0],
     "uniqueName": "Ulfrik",
     "cities": ["Sigmundarnes","Sauoa","Hrafnkelsdalr","Gyldarhagi","Knappsstaoir","Eyjafjoll",
 		       "Asbjarnarstaoir","Baegisa","Jolgeirsstaoir","Flugumyrr","Deildarey",
