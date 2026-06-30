@@ -54,7 +54,7 @@
       },
       {     
         "name": "Bronze Working",
-        "row": 5,
+        "row": 7,
         "cost": 30,
         "quote": "By combining weaker metals such as copper and tin, we can create bronze, a much stronger metal which can be used for spear tips.",
         "prerequisites": ["Mining"],
