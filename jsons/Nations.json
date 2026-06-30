@@ -79,6 +79,27 @@
 	           "Kispozum","Edvapata","Hebsou","Khesiset","Meddjurma","Tarsamunein",
 	           "Geskhesut","Nadjuremu","Qipothus"],
   },
+  {
+    "name": "Ulfrik",
+    "leaderName": "Bjorn",
+
+    "declaringWar": "You are an evil leader. You must be destroyed!",
+    "attacked": "You will pay for this.",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+    "introduction": "Hello, stranger. I am Bjorn, leader of Ulfrik.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "WHAT!?",
+    "tradeRequest": "May we have a trade?",
+
+    "innerColor": [83, 0, 208],
+    "outerColor": [255, 252, 3],
+    "uniqueName": "Ulfrik",
+    "cities": ["Sigmundarnes","Sauoa","Hrafnkelsdalr","Gyldarhagi","Knappsstaoir","Eyjafjoll",
+		       "Asbjarnarstaoir","Baegisa","Jolgeirsstaoir","Flugumyrr","Deildarey",
+	           "Munaoarnes","Horoaland","Bravollr","Hellishraun","Hegranes","Hareksstaoir",
+		       "Gunnolfsvik","Asbjarnarnes","Baugsstaoir","Hjorleifshofoi"],
+  },
 	// City state
   {
     "name": "Morphendon",
