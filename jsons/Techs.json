@@ -70,7 +70,7 @@
       {     
         "name": "Philosophy",
         "row": 2,
-        "cost": 10,
+        "cost": 75,
         "quote": "The human mind is vast and complicated. By learning more about ourselves, we can understand our strengths and flaws as a society.",
         "prerequisites": ["Writing"],
       },
