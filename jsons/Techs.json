@@ -37,6 +37,13 @@
         "cost": 30,
         "quote": "Open the fruits and you'll find seeds inside... In the soil to make more fruits!",
         "prerequisites": ["Gathering"],
+      },
+      {     
+        "name": "Carpentry",
+        "row": 5,
+        "cost": 30,
+        "quote": "Logs from trees turn out to make great house building material.",
+        "prerequisites": ["Mining"],
       }
     ]
   }
