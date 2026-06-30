@@ -59,6 +59,12 @@
         "quote": "By combining weaker metals such as copper and tin, we can create bronze, a much stronger metal which can be used for spear tips.",
         "prerequisites": ["Mining"],
       },
+      {     
+        "name": "Hunting",
+        "row": 9,
+        "cost": 30,
+        "quote": "Instead of chasing our food, we can build fenses and trap them so we don't have to chase em all the time.",
+      },
     ]
   },
   {
