@@ -29,6 +29,13 @@
 		"food": 1,
 		"uniques": ["Does not need removal of [Forest]","Can only be built to improve a resource"],
 	},
+	{
+		"name": "Lumber mill",
+		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
+		"turnsToBuild": 5,
+		"techRequired": "Construction",
+		"production": 2,
+	},
 	// Misc
 	{
 		"name": "City ruins",
