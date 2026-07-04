@@ -4,5 +4,8 @@
             "cityStrengthBase": 10,
             "cityStrengthFromTechsMultiplier": 0,
             "cityStrengthPerPop": 0.2,
+            "cityWorkRange": 6,
+            "cityExpandRange": 10,
+            "unitSupplyPerPopulation": 3,
      }
 }
