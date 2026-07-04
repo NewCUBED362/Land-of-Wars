@@ -1,5 +1,16 @@
 [
   {
+    "name": "Quick",
+    "startYear": 0,
+    "turns": [
+        {"yearsPerTurn": 22, "untilTurn":  30},
+        {"yearsPerTurn": 12, "untilTurn":  45},
+        {"yearsPerTurn": 6, "untilTurn":  60},
+        {"yearsPerTurn": 3, "untilTurn":  85},
+        {"yearsPerTurn": 1, "untilTurn":  9999},
+             ]
+  },
+  {
     "name": "Average",
     "startYear": 0,
     "turns": [
