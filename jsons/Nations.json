@@ -116,7 +116,8 @@
     "innerColor": [255,255,102],
     "outerColor": [51,25,0],
     "uniqueName": "Moanatele",
-    "cities": ["Saisala","Ili'isega","Fonoifesia","Koditi","Tongakolo","Manufenga","Tauravu"],
+    "cities": ["Saisala","Ili'isega","Fonoifesia","Koditi","Tongakolo","Manufenga","Tauravu",
+	           "Brambakoula","Laukawai","Taboria","Manekaka"],
   },
 	// City state
   {
