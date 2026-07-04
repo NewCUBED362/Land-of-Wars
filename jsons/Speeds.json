@@ -1,6 +1,9 @@
 [
   {
     "name": "Quick",
+    "productionCostModifier": -2,
+    "scienceCostModifier": -2,
+    "cultureCostModifier": -2,
     "startYear": 0,
     "turns": [
         {"yearsPerTurn": 22, "untilTurn":  30},
