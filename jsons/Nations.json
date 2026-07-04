@@ -216,5 +216,17 @@
     "innerColor": [186,18,202],
     "outerColor": [0,0,0],
     "cities": ["El Almedenas"],
-  }
+  },
+  {
+    "name": "Rustcliff",
+    "cityStateType": "Neutral",
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "Very well. We will prepare to fend you off.",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+
+    "innerColor": [186,18,202],
+    "outerColor": [0,0,0],
+    "cities": ["Rustcliff"],
+  },
 ]
