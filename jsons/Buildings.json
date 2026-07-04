@@ -66,6 +66,12 @@
   {
     "name": "Theatre",
     "happiness": 3,
-	"requiredTech": "Rhetoric",
+	"requiredTech": "Theology",
   },
+  {
+    "name": "Temple",
+    "culture": 2,
+	"science": 1,
+	"requiredTech": "Theology",
+  }
 ]
