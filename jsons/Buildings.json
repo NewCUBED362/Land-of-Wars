@@ -73,5 +73,10 @@
     "culture": 2,
 	"science": 1,
 	"requiredTech": "Theology",
+  },
+  {
+    "name": "Watermill",
+    "production": 2,
+	"requiredTech": "Hydrology",
   }
 ]
