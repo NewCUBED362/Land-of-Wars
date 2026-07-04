@@ -180,5 +180,17 @@
     "innerColor": [186,18,202],
     "outerColor": [0,0,0],
     "cities": ["Goondigoolga"],
+  },
+  {
+    "name": "Manufeva",
+    "cityStateType": "Neutral",
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "Damn you!",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+
+    "innerColor": [186,18,202],
+    "outerColor": [0,0,0],
+    "cities": ["Manufeva"],
   }
 ]
