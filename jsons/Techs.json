@@ -125,6 +125,13 @@
         "cost": 120,
         "quote": "We have put wheels on a horse, now we are getting somewhere.",
         "prerequisites": ["Iron Working","Construction"],
+      },
+      {     
+        "name": "Hydrology",
+        "row": 5,
+        "cost": 120,
+        "quote": "Better understanding of how water and other liquids react to our environment will give us ideas of how to exploit it to our gains",
+        "prerequisites": ["Currency","Construction"],
       }
     ]
   }
