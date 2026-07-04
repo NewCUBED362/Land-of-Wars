@@ -21,7 +21,7 @@
   {
     "name": "Library",
     "science": 2,
-	"requiredTech": "Rhetoric",
+	"requiredTech": "Theology",
   },
   {
     "name": "Logging Camp",
@@ -78,5 +78,6 @@
     "name": "Watermill",
     "production": 2,
 	"requiredTech": "Hydrology",
+	"uniques": ["Can only be built <in [River] tiles>"],
   }
 ]
