@@ -2,7 +2,7 @@
   {
     "columnNumber": 0,
     "era": "First era",
-    "buildingCost": 30,
+    "buildingCost": 60,
     "wonderCost": 80,
     "techs": [
       {     
@@ -28,7 +28,7 @@
   {
     "columnNumber": 1,
     "era": "First era",
-    "buildingCost": 30,
+    "buildingCost": 60,
     "wonderCost": 200,
     "techs": [
       {     
@@ -72,7 +72,7 @@
   {
     "columnNumber": 2,
     "era": "Second era",
-    "buildingCost": 30,
+    "buildingCost": 80,
     "wonderCost": 200,
     "techs": [
       {     
@@ -109,7 +109,7 @@
   {
     "columnNumber": 3,
     "era": "Second era",
-    "buildingCost": 60,
+    "buildingCost": 100,
     "wonderCost": 200,
     "techs": [
         {     
