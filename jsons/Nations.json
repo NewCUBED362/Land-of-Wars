@@ -109,7 +109,7 @@
     "defeated": "We have been destroyed. May you rule over us with mercy...",
     "introduction": "Hello, stranger. I am Roimata, leader of Moanatele.",
 
-    "neutralHello": "Hello.",
+    "neutralHello": "Kia ora.",
     "hateHello": "WHAT!?",
     "tradeRequest": "May we have a trade?",
 
@@ -118,7 +118,7 @@
     "uniqueName": "Moanatele",
     "cities": ["Saisala","Ili'isega","Fonoifesia","Koditi","Tongakolo","Manufenga","Tauravu",
 	           "Brambakoula","Laukawai","Taboria","Manekaka","Riwakuku","Outriu","Afepipi",
-	           "Fagamea","Lifuhahake"],
+	           "Fagamea","Lifuhahake","Uoloa","Sasotoka","Tebannoinano","Hanmes","Tuatia"],
   },
 	// City state
   {
