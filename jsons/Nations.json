@@ -100,6 +100,24 @@
 	           "Munaoarnes","Horoaland","Bravollr","Hellishraun","Hegranes","Hareksstaoir",
 		       "Gunnolfsvik","Asbjarnarnes","Baugsstaoir","Hjorleifshofoi"],
   },
+  {
+    "name": "Moanatele",
+    "leaderName": "Roimata",
+
+    "declaringWar": "You are an evil leader. You must be destroyed!",
+    "attacked": "I knew you couldn't be trusted...",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+    "introduction": "Hello, stranger. I am Roimata, leader of Moanatele.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "WHAT!?",
+    "tradeRequest": "May we have a trade?",
+
+    "innerColor": [255,255,102],
+    "outerColor": [51,25,0],
+    "uniqueName": "Moanatele",
+    "cities": ["Saisala","Ili'isega"],
+  },
 	// City state
   {
     "name": "Morphendon",
