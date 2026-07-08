@@ -133,8 +133,8 @@
     "hateHello": "What?",
     "tradeRequest": "May we have a trade?",
 
-    "innerColor": [255,255,75],
-    "outerColor": [217,89,0],
+    "innerColor": [37,43,33],
+    "outerColor": [179,178,184],
     "uniqueName": "Jägermark",
     "cities": ["Nurembeck","Blumscheid","Rauenhofen","Mitterweg","Hammölsen","Rankburg",
 	           "Grossroda","Sachsengries","Hamzach","Griesnau","Gänsernben","Gailnow",
