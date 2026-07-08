@@ -63,7 +63,7 @@
     "name": "Khemeru",
     "leaderName": "Djehutimesu",
 
-    "declaringWar": "You are an evil leader. You must be destroyed!",
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
     "attacked": "You will pay for this.",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
     "introduction": "Hello, stranger. I am Djehutimesu, leader of Khemeru.",
@@ -119,6 +119,24 @@
     "cities": ["Saisala","Ili'isega","Fonoifesia","Koditi","Tongakolo","Manufenga","Tauravu",
 	           "Brambakoula","Laukawai","Taboria","Manekaka","Riwakuku","Outriu","Afepipi",
 	           "Fagamea","Lifuhahake","Uoloa","Sasotoka","Tebannoinano","Hanmes","Tuatia"],
+  },
+  {
+    "name": "Jägermark",
+    "leaderName": "Dita",
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "I knew you couldn't be trusted...",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+    "introduction": "Hello, stranger. I am Dita, leader of Jägermark.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What?",
+    "tradeRequest": "May we have a trade?",
+
+    "innerColor": [255,255,75],
+    "outerColor": [217,89,0],
+    "uniqueName": "Jägermark",
+    "cities": ["Nurembeck","Blumscheid"],
   },
 	// City state
   {
