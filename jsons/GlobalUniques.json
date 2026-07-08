@@ -5,5 +5,7 @@
                 "[+35]% [Culture] <in cities with between [7] and [8] [Population]>",
                 "[+50]% [Culture] <in cities with between [9] and [10] [Population]>",
                 "[+65]% [Culture] <in cities with between [11] and [99] [Population]>",
-                "[-100]% Unhappiness from [Population] [in all cities]"],
+        
+                "[-100]% Unhappiness from [Population] [in all cities]",
+                "[-100]% unhappiness from the number of cities"],
 }
