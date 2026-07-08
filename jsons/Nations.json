@@ -136,7 +136,7 @@
     "innerColor": [255,255,75],
     "outerColor": [217,89,0],
     "uniqueName": "Jägermark",
-    "cities": ["Nurembeck","Blumscheid"],
+    "cities": ["Nurembeck","Blumscheid","Rauenhofen","Mitterweg","Hammölsen","Rankburg"],
   },
 	// City state
   {
