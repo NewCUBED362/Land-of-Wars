@@ -48,6 +48,16 @@
     "strength": 12,
 	"rangedStrength": 22,
 	"range": 2,
-  }
+  },
+  {
+    "name": "Knight",
+    "unitType": "Blunt",
+    "cost": 100,
+	"requiredTech": "Horseback Riding",
+	"requiredResource": "Metals",
+    "movement": 3,
+    "strength": 28,
+	"uniques": ["Can move after attacking"],
+  },
 ]
     
