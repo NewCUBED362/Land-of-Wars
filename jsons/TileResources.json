@@ -46,5 +46,34 @@
   "improvementStats": {"production": 1},
   "improvement": "Mine",
   "unique": ["Generated on every [15] tiles <in [Hill] tiles>"],
-}
+},
+	// Luxury
+{
+  "name": "Ivory",
+  "resourceType": "Luxury",
+  "terrainsCanBeFoundOn": ["Grassland","Plains"],
+  "gold": 1,
+  "improvementStats": {"gold": 2},
+  "improvement": "Pasture",
+  "unique": ["Generated on every [15] tiles <in [{Featureless} {Grassland}] tiles>","Generated on every [15] tiles <in [{Featureless} {Plains}] tiles>"],
+},
+{
+  "name": "Gold ore",
+  "resourceType": "Luxury",
+  "terrainsCanBeFoundOn": ["Hill"],
+	"revealedBy": "Mining",
+  "gold": 1,
+  "improvementStats": {"gold": 3},
+  "improvement": "Mine",
+  "unique": ["Generated on every [15] tiles <in [Hill] tiles>"],
+},
+{
+  "name": "Cocoa",
+  "resourceType": "Luxury",
+  "terrainsCanBeFoundOn": ["Grassland","Plains"],
+  "food": 1,
+  "improvementStats": {"gold": 2},
+  "improvement": "Plantation",
+  "unique": ["Generated on every [13] tiles <in [{Forest} {Grassland}] tiles>","Generated on every [13] tiles <in [{Forest} {Plains}] tiles>"],
+},
 ]
