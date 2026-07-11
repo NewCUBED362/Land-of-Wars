@@ -14,7 +14,7 @@
 
     "innerColor": [238,201,9],
     "outerColor": [53,0,87],
-    "uniqueName": "Vesparia",
+    "uniqueName": "lupus",
     "cities": ["Durolitum","Amiternum","Corisopitum","Salodurum","Scallabis","Aquae Helveticae",
 		       "Resapha","Bergula","Castrum Deutonis","Bergomum","Abusina","Novaesium",
 		       "Bona","Ostium","Salinae"],
@@ -34,7 +34,7 @@
 
     "innerColor": [255, 255, 255],
     "outerColor": [9, 112, 84],
-    "uniqueName": "Shunxi",
+    "uniqueName": "熊猫",
     "cities": ["Guiliang","Shihua","Guiyuan","Xucheng","Tengyuan","Tongcheng","Hengchun",
 	           "Qigong","Quantong","Changwei","Yueshu","Tangmen","Zhaohua","Shiramay",
 	           "Tengwei","Xinhou"],
@@ -54,7 +54,7 @@
 
     "innerColor": [65, 141, 254],
     "outerColor": [255, 255, 255],
-    "uniqueName": "Epirovos",
+    "uniqueName": "Δελφίνι",
     "cities": ["Thermosia","Pydnarnassus","Phocae","Latinth","Scidrasa","Histrurion",
 	           "Naxurias","Mallissos","Zakrarnae","Andrenion","Elatagra","Phaistolgi",
 	           "Hieryras","Assus","Psocaea","Philurii"],
