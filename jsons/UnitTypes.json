@@ -21,5 +21,10 @@
   {
     "name": "Archery",
     "movementType": "Land",
+  },
+  {
+    "name": "Siege",
+    "movementType": "Land",
+    "uniques": ["[+150]% Strength <vs [City] units>"],
   }
 ]
