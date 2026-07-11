@@ -74,7 +74,7 @@
 
     "innerColor": [83, 0, 208],
     "outerColor": [255, 252, 3],
-    "uniqueName": "Khemeru",
+    "uniqueName": "نسر",
     "cities": ["Qisemu","Behre","Herifu","Avsairuna","Kunuris","Khasbusouk","Debysma",
 	           "Kispozum","Edvapata","Hebsou","Khesiset","Meddjurma","Tarsamunein",
 	           "Geskhesut","Nadjuremu","Qipothus"],
@@ -94,7 +94,7 @@
 
     "innerColor": [255,255,102],
     "outerColor": [51,25,0],
-    "uniqueName": "Ulfrik",
+    "uniqueName": "Elg",
     "cities": ["Sigmundarnes","Sauoa","Hrafnkelsdalr","Gyldarhagi","Knappsstaoir","Eyjafjoll",
 		       "Asbjarnarstaoir","Baegisa","Jolgeirsstaoir","Flugumyrr","Deildarey",
 	           "Munaoarnes","Horoaland","Bravollr","Hellishraun","Hegranes","Hareksstaoir",
@@ -115,7 +115,7 @@
 
     "innerColor": [255,255,75],
     "outerColor": [217,89,0],
-    "uniqueName": "Moanatele",
+    "uniqueName": "Kiwi",
     "cities": ["Saisala","Ili'isega","Fonoifesia","Koditi","Tongakolo","Manufenga","Tauravu",
 	           "Brambakoula","Laukawai","Taboria","Manekaka","Riwakuku","Outriu","Afepipi",
 	           "Fagamea","Lifuhahake","Uoloa","Sasotoka","Tebannoinano","Hanmes","Tuatia"],
@@ -135,7 +135,7 @@
 
     "innerColor": [37,43,33],
     "outerColor": [179,178,184],
-    "uniqueName": "Jägerland",
+    "uniqueName": "Adler",
     "cities": ["Nurembeck","Blumscheid","Rauenhofen","Mitterweg","Hammölsen","Rankburg",
 	           "Grossroda","Sachsengries","Hamzach","Griesnau","Gänsernben","Gailnow",
 	           "Abenhöring","Vohenlug","Altenräschen","Walsnitz","Weilstadt","Ebermold"],
