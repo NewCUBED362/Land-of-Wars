@@ -25,6 +25,6 @@
   {
     "name": "Siege",
     "movementType": "Land",
-    "uniques": ["[+150]% Strength <vs [City] units>"],
+    "uniques": ["[+150]% Strength <vs cities>","Must set up to ranged attack"],
   }
 ]
