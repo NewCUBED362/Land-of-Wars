@@ -135,7 +135,7 @@
       },
       {     
         "name": "Siege",
-        "row": 7,
+        "row": 9,
         "cost": 120,
         "quote": "Catapults are siege weapons that can take down even the tallest walls.",
         "prerequisites": ["Iron Working","Construction"],
