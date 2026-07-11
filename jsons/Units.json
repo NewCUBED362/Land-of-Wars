@@ -59,5 +59,15 @@
     "strength": 28,
 	"uniques": ["Can move after attacking"],
   },
+  {
+    "name": "Catapult",
+    "unitType": "Siege",
+    "cost": 85,
+	"requiredTech": "Siege",
+    "movement": 1,
+    "strength": 12,
+	"rangedStrength": 22,
+	"range": 2,
+  },
 ]
     
