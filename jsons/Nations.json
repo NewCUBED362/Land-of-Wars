@@ -127,7 +127,7 @@
     "declaringWar": "It's time to rid you of this world. Prepare to die!",
     "attacked": "I knew you couldn't be trusted...",
     "defeated": "We have been destroyed. May you rule over us with mercy...",
-    "introduction": "Hello, stranger. I am Dita, leader of Jägermark.",
+    "introduction": "Hello, stranger. I am Dita, leader of Jägerland.",
 
     "neutralHello": "Hello.",
     "hateHello": "What?",
@@ -139,6 +139,24 @@
     "cities": ["Nurembeck","Blumscheid","Rauenhofen","Mitterweg","Hammölsen","Rankburg",
 	           "Grossroda","Sachsengries","Hamzach","Griesnau","Gänsernben","Gailnow",
 	           "Abenhöring","Vohenlug","Altenräschen","Walsnitz","Weilstadt","Ebermold"],
+  },
+  {
+    "name": "Varenya",
+    "leaderName": "Jagdish",
+
+    "declaringWar": "It's time to rid you of this world. Prepare to die!",
+    "attacked": "I knew you couldn't be trusted...",
+    "defeated": "We have been destroyed. May you rule over us with mercy...",
+    "introduction": "Hello, stranger. I am Dita, leader of Jägerland.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What is it?",
+    "tradeRequest": "May we have a trade?",
+
+    "innerColor": [37,43,33],
+    "outerColor": [179,178,184],
+    "uniqueName": "Varenya",
+    "cities": ["Byasatari","Nelarayan"],
   },
 	// City state
   {
