@@ -156,7 +156,8 @@
     "innerColor": [37,43,33],
     "outerColor": [179,178,184],
     "uniqueName": "Varenya",
-    "cities": ["Byasatari","Nelarayan","Khadara","Pukhgaria","Kirtiwan","Hazamia","Laktari"],
+    "cities": ["Byasatari","Nelarayan","Khadara","Pukhgaria","Kirtiwan","Hazamia","Laktari",
+	           "Bagadi","Kapilpur","Lunagadi","Bandarlokati","Lakvasi"],
   },
 	// City state
   {
