@@ -1,0 +1,16 @@
+[
+  {
+    "columnNumber": 0,
+    "era": "First era",
+    "techCost": 20,
+    "buildingCost": 20,
+    "techs": [
+      {
+        "name": "Agriculture",
+        "row": 6,
+        "uniques": ["Starting tech"],
+      }
+    ]
+  }
+]
+    
