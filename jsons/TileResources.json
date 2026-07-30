@@ -1,61 +1,14 @@
 [
-// Bonus
-{
-  "name": "Cattle",
-  "resourceType": "Bonus",
-  "terrainsCanBeFoundOn": ["Grassland","Plains"],
-  "food": 1,
-  "improvementStats": {"production": 1},
-  "improvement": "Pasture",
-  "unique": ["Generated on every [15] tiles <in [{Featureless} {Grassland}] tiles>","Generated on every [15] tiles <in [{Featureless} {Plains}] tiles>"],
-},
-{
-  "name": "Sheep",
-  "resourceType": "Bonus",
-  "terrainsCanBeFoundOn": ["Grassland","Plains"],
-  "food": 1,
-  "improvementStats": {"production": 1},
-  "improvement": "Pasture",
-  "unique": ["Generated on every [13] tiles <in [{Featureless} {Grassland}] tiles>","Generated on every [13] tiles <in [{Featureless} {Plains}] tiles>"],
-},
-{
-  "name": "Apples",
-  "resourceType": "Bonus",
-  "terrainsCanBeFoundOn": ["Grassland","Plains"],
-  "food": 1,
-  "improvementStats": {"food": 1},
-  "improvement": "Plantation",
-  "unique": ["Generated on every [13] tiles <in [{Forest} {Grassland}] tiles>","Generated on every [13] tiles <in [{Forest} {Plains}] tiles>"],
-},
-{
-  "name": "Grapes",
-  "resourceType": "Bonus",
-  "terrainsCanBeFoundOn": ["Grassland","Plains"],
-  "food": 1,
-  "improvementStats": {"food": 1},
-  "improvement": "Plantation",
-  "unique": ["Generated on every [15] tiles <in [{Featureless} {Grassland}] tiles>","Generated on every [15] tiles <in [{Featureless} {Plains}] tiles>"],
-},
-  // Strategic 
+  // Luxury
 {
   "name": "Metals",
-  "resourceType": "Strategic",
+  "resourceType": "Luxury",
   "terrainsCanBeFoundOn": ["Hill"],
-	"revealedBy": "Mining",
+  "revealedBy": "Mining",
   "production": 1,
   "improvementStats": {"production": 1},
   "improvement": "Mine",
   "unique": ["Generated on every [15] tiles <in [Hill] tiles>"],
-},
-	// Luxury
-{
-  "name": "Ivory",
-  "resourceType": "Luxury",
-  "terrainsCanBeFoundOn": ["Grassland","Plains"],
-  "gold": 1,
-  "improvementStats": {"gold": 2},
-  "improvement": "Pasture",
-  "unique": ["Generated on every [15] tiles <in [{Featureless} {Grassland}] tiles>","Generated on every [15] tiles <in [{Featureless} {Plains}] tiles>"],
 },
 {
   "name": "Gold Ore",
@@ -66,14 +19,5 @@
   "improvementStats": {"gold": 3},
   "improvement": "Mine",
   "unique": ["Generated on every [15] tiles <in [Hill] tiles>"],
-},
-{
-  "name": "Cocoa",
-  "resourceType": "Luxury",
-  "terrainsCanBeFoundOn": ["Grassland","Plains"],
-  "food": 1,
-  "improvementStats": {"gold": 2},
-  "improvement": "Plantation",
-  "unique": ["Generated on every [13] tiles <in [{Forest} {Grassland}] tiles>","Generated on every [13] tiles <in [{Forest} {Plains}] tiles>"],
 },
 ]
