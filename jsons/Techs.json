@@ -10,6 +10,75 @@
         "row": 6,
         "uniques": ["Starting tech"],
       }
+    ],
+  },
+  {
+    "columnNumber": 1,
+    "era": "First era",
+    "techCost": 20,
+    "buildingCost": 20,
+    "techs": [
+			{
+				"name": "Research I",
+				"row": 1,
+				"prerequisites": ["Agriculture"],
+			},
+			{
+				"name": "Construction I",
+				"row": 3,
+				"prerequisites": ["Agriculture"],
+			},
+			{
+				"name": "Military I",
+				"row": 5,
+				"prerequisites": ["Agriculture"],
+			},
+    ]
+  },
+  {
+    "columnNumber": 2,
+    "era": "First era",
+    "techCost": 40,
+    "buildingCost": 30,
+    "techs": [
+			{
+				"name": "Research II",
+				"row": 1,
+				"prerequisites": ["Research I"],
+			},
+			{
+				"name": "Construction II",
+				"row": 3,
+				"prerequisites": ["Construction I"],
+			},
+			{
+				"name": "Military II",
+				"row": 5,
+				"prerequisites": ["Military I"],
+			},
+    ]
+  },
+  {
+    "columnNumber": 3,
+    "era": "First era",
+    "techCost": 60,
+    "buildingCost": 40,
+    "techs": [
+			{
+				"name": "Research III",
+				"row": 1,
+				"prerequisites": ["Research II"],
+			},
+			{
+				"name": "Construction III",
+				"row": 3,
+				"prerequisites": ["Construction II"],
+			},
+			{
+				"name": "Military III",
+				"row": 5,
+				"prerequisites": ["Military II"],
+			}
     ]
   }
 ]
