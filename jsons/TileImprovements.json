@@ -2,39 +2,20 @@
 	{
 		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Flood plains"],
-		"turnsToBuild": 5,
-		"techRequired": "Farming",
+		"turnsToBuild": 8,
 		"food": 2,
 	},
 	{
 		"name": "Mine",
 		"terrainsCanBeBuiltOn": ["Hill"],
-		"turnsToBuild": 5,
-		"techRequired": "Mining",
+		"turnsToBuild": 8,
 		"production": 2,
-	},
-	{
-		"name": "Pasture",
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Flood plains"],
-		"turnsToBuild": 6,
-		"techRequired": "Animal Husbandry",
-		"food": 1,
-		"uniques": ["Can only be built to improve a resource"],
-	},
-	{
-		"name": "Plantation",
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Flood plains"],
-		"turnsToBuild": 5,
-		"techRequired": "Gathering",
-		"food": 1,
-		"uniques": ["Does not need removal of [Forest]","Can only be built to improve a resource"],
 	},
 	{
 		"name": "Lumber mill",
 		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
-		"turnsToBuild": 5,
-		"techRequired": "Construction",
-		"production": 2,
+		"turnsToBuild": 8,
+		"production": 1,
 	},
 	// Misc
 	{
