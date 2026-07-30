@@ -1,5 +1,7 @@
 [
   {
     "name": "First era",
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "Footman",
   }
 ]
