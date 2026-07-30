@@ -22,6 +22,7 @@
 				"name": "Research I",
 				"row": 1,
 				"prerequisites": ["Agriculture"],
+				"uniques": ["[+1 Science] [in all cities]"],
 			},
 			{
 				"name": "Construction I",
@@ -46,6 +47,7 @@
 				"name": "Research II",
 				"row": 1,
 				"prerequisites": ["Research I"],
+				"uniques": ["[+1 Science] [in all cities]"],
 			},
 			{
 				"name": "Construction II",
@@ -63,13 +65,14 @@
   {
     "columnNumber": 3,
     "era": "First era",
-    "techCost": 60,
+    "techCost": 80,
     "buildingCost": 40,
     "techs": [
 			{
 				"name": "Research III",
 				"row": 1,
 				"prerequisites": ["Research II"],
+				"uniques": ["[+1 Science] [in all cities]"],
 			},
 			{
 				"name": "Construction III",
