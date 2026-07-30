@@ -32,6 +32,7 @@
 				"name": "Military I",
 				"row": 5,
 				"prerequisites": ["Agriculture"],
+				"uniques": ["[+5] Strength <for [Military] units>"],
 			},
     ]
   },
@@ -55,6 +56,7 @@
 				"name": "Military II",
 				"row": 5,
 				"prerequisites": ["Military I"],
+				"uniques": ["[+5] Strength <for [Military] units>"],
 			},
     ]
   },
@@ -78,6 +80,7 @@
 				"name": "Military III",
 				"row": 5,
 				"prerequisites": ["Military II"],
+				"uniques": ["[+5] Strength <for [Military] units>"],
 			}
     ]
   }
