@@ -4,27 +4,7 @@
     "movementType": "Land",
   },
   {
-    "name": "Blunt",
+    "name": "Melee",
     "movementType": "Land",
-    "uniques": ["[+50]% Strength <vs [Slash] units>"],
-  },
-  {
-    "name": "Pierce",
-    "movementType": "Land",
-    "uniques": ["[+50]% Strength <vs [Blunt] units>"],
-  },
-  {
-    "name": "Slash",
-    "movementType": "Land",
-    "uniques": ["[+50]% Strength <vs [Pierce] units>"],
-  },
-  {
-    "name": "Archery",
-    "movementType": "Land",
-  },
-  {
-    "name": "Siege",
-    "movementType": "Land",
-    "uniques": ["[+150]% Strength <vs cities>","Must set up to ranged attack"],
   }
 ]
